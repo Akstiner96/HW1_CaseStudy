@@ -1,4 +1,5 @@
 # FinTech Case Study: Knock
+---
 ## Overview and Origin
 ---
 [Knock](https://www.knock.com/) is a real estate company that is considered to be a part of the up and coming "PropTech" realm. Knock is in the business of buying and selling homes over the internet (often considered "iBuyers"), making the process quick and seamless for both parties during the arduous home buying process. 
@@ -22,6 +23,10 @@ Knock boasts an algorithm that will ["sell your home in less than six weeks, eve
 
 ## Landscape
 ---
+The pioneers of the PropTech and iBuyer industry have thrived on new technology and algorithms that make renting or purchasing real estate cheaper and easier for their clientele. Phone apps, websites, and state of the art code allow potential home buyers or real estate investors to have up-to-date and trustworthy prices and property data at their fingertips.
 
+The major players in PropTech vary in size and scope, but nonetheless, are revolutionizing the real estate industry. Companies like [Opendoor](https://www.opendoor.com/) and [Offerpad](https://www.offerpad.com/) are the other major companies in the iBuyer landscape, making offers on homes across the country and helping people move into a new one. [Bowery Valuation](https://www.boweryvaluation.com/) uses their platform to provide their customers with the most accurate appraisals available. [And many others](https://builtin.com/consumer-tech/real-estate-technology) provide solutions in areas of a wide spectrum, from subletting and renting to office spaces. If there's a problem in the real estate industry, a PropTech company will find a more efficient solution.
 
-
+## Results
+---
+PropTech companies have put traditional real estate companies on their toes.
