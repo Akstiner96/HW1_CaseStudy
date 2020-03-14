@@ -29,4 +29,11 @@ The major players in PropTech vary in size and scope, but nonetheless, are revol
 
 ## Results
 ---
-PropTech companies have put traditional real estate companies on their toes.
+PropTech companies have put traditional real estate companies on their toes. The iBuyer industry has already disrupted a multi-billion dollar home market, and Knock has taken it a step further. While not considered a leader in this industry just yet, Knock is still making plenty of noise as a relatively new up-and-comer. With an estimated yearly revenue of $55 million, their model of trade-in homes, similar to car buying, appears to be appealing to prospective customers.  
+
+The main issue that arises with iBuyers is the ability to expand their market at a rate high enough to match the demand for their product. Expansions are not as simple as they may sound as an algorithm for one city or area of the country may differ from that of another city. Due to this, iBuyers are in a race to introduce their product first to the biggest markets. Knock has done a great job of expanding their market share, offering their services in 10+ cities on the east coast and across America.
+
+As previously mentioned, Knock is not the biggest company in this industry. Their market share does not yet compete with the likes of Opendoor. But, Knock is still new, and growing rapidly. According to their CEO and previous founder of Trulia, Sean Black, things are moving much quicker than any other company he has worked for. Sean expects ["...there will be five new companies in five years"](https://www.forbes.com/sites/amyfeldman/2018/01/22/as-competition-to-disrupt-home-sales-heats-up-startup-knock-plans-rollout-to-10-new-cities/#1d7259a4408b), a bold, but seemingly realistic, outcome for his company and the future of the industry.
+
+## Recommendations
+---
